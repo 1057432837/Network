@@ -1,0 +1,10 @@
+<project version="4">
+  <component name="Black">
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="D:\Anaconda\Anaconda\Scripts\black.exe" />
+    <option name="sdkUUID" value="3d3eebb8-18c6-43a9-ac23-437b58350368" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" project-jdk-name="Python 3.11 (python)" project-jdk-type="Python SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
